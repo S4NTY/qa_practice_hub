@@ -16,14 +16,14 @@ Every scenario is written in **Gherkin** (`.feature` files), mapped to **step de
 
 ## 🛠 Tech Stack
 
-| Category            | Tools & Technologies |
-|---------------------|----------------------|
-| **Language**        | Python 3.x           |
-| **UI Automation**  | Playwright           |
-| **Test Runner**     | pytest               |
-| **BDD**             | Gherkin / Cucumber *(via `pytest-bdd`)* |
-| **Reporting**      | Allure Report       |
-| **Architecture**   | Page Object Model (POM) |
+| Category          | Tools & Technologies                    |
+|-------------------|-----------------------------------------|
+| **Language**      | Python 3.x                              |
+| **UI Automation** | Playwright                              |
+| **Test Runner**   | pytest                                  |
+| **BDD**           | Gherkin / Cucumber *(via `pytest-bdd`)* |
+| **Reporting**     | Allure Report                           |
+| **Architecture**  | Page Object Model (POM)                 |
 
 ---
 
